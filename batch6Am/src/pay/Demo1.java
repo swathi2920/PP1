@@ -2,7 +2,7 @@ package pay;
 
 public class Demo1 {
 
-	public void display()
+	public static void main(String[] args) 
 	{
 		System.out.println("hello...");
 	}
