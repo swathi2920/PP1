@@ -1,0 +1,18 @@
+
+
+Reading Data from Excel:--
+---------------
+1. download the excel jars to your project.
+download apache poi jars
+https://poi.apache.org/download.html
+
+2. extract the jars
+3. configure / add the jars to the working project
+4. excel-- data
+5. java class --- reading
+
+
+====================
+selenium jars:
+
+https://www.selenium.dev/

@@ -1,0 +1,42 @@
+
+Exception handeling
+Collections
+Stream clases
+
+
+OOPS:-
+=========
+Abstraction
+Encapsulation
+Polymorphism
+inheritance
+
+Polymorphism:--
+------------------
+
+static / Compile time / Overloading:-
+--------------
+--- implemented in only one class.
+-- A single class, having multiple methods with same name,
+  different signature
+  (no of parameters/ parameter datatype / change the position)
+
+
+Dynamic / RunTime / overriding:-
+------------
+--- needs atleast 2 class (parent -child)
+-- A multiple class, having methods with same name,
+  same signature
+
+========
+inheritance:-
+
+nested
+
+multiple -- not possible
+
+
+
+
+
+

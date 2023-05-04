@@ -1,0 +1,24 @@
+
+OOPS:-
+=========
+Abstraction
+Encapsulation
+Polymorphism
+inheritance
+
+Abstraction:-
+-------------
+ RBI --- rules
+ account()
+ loan()
+ intrest()
+ report()
+ 
+ abcBank---
+ account()
+ loan()
+ intrest()
+ 
+ Encapsulation:--
+ ------------
+ 

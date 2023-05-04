@@ -1,0 +1,23 @@
+synchronize :--
+
+Thread.sleep(3000); ---- Java
+
+selenium wait:---
+-------------
+
+default wait = 0 sec
+
+Implicit wait:--
+common wait applied to entire script
+setting
+
+Explicit wait:
+condition
+customize  wait time
+
+polling time =500 ms
+
+
+
+Fluent wait
+customize  wait time polling time

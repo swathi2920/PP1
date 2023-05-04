@@ -1,0 +1,12 @@
+
+
+Methods Tpes:--
+=============
+
+visibility / accessability of methods/variable:--
+Aaccess modifiers
+------------
+public
+default
+private
+protected

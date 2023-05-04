@@ -1,0 +1,15 @@
+
+driver.switchTo().Alert
+
+Alert Handeling:-
+--------------
+ok --- accept()
+cancel-- dismiss()
+text --- getText()
+input --- sendKeys();
+
+Frame Handeling :-- another HTML page 
+
+Actions Class:--
+
+Actions action= new Actions();

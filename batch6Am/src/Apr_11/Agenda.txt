@@ -1,0 +1,25 @@
+
+variable-- int n1=88;
+
+Array --- int sal[] = {334,555,666,777}
+sys(sal[0])
+
+
+     info[]= {11,"john",44,"addr...","QA"}
+     =========
+Collections:-
+
+ info[]= {11,"john",44,"addr...","QA"}
+ 
+ 
+ List --- stores duplicate data
+ 
+ 	ArrayList --- can read data only forward direction
+ 	LinkedList--- can read data forward - backward direction
+ 
+ 
+ set---  only stores unique data
+ 
+ 	HashSet
+ 	LinkedHashSet
+ 	Treeset

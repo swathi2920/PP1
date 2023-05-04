@@ -1,0 +1,27 @@
+
+
+Xpath:--
+========
+chropath plugin --- chrome/ FF
+https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo
+
+
+Relative :
+//body/div[@id='u_0_1_H8']/div[@id='globalContainer']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]
+//img[@class='lnXdpd']
+//div[@id='content']//img[@class='fb_logo _8ilh img']
+//button[@name='login']
+//form[1]//button[@name='login']
+//form[1]/div[2]/button[@name='login']
+
+
+//a[text()='Create new account']
+//h2[text()='Facebook helps you connect and share with the people in your life.']
+
+//a[contains(text(),'Create new ')]
+//h2[contains(text(),'Facebook helps you connect and share with the peop')]
+
+Absolute:--
+/html[1]/body[1]/div[1]/div[2]/div[1]/img[1]
+
+

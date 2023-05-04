@@ -1,0 +1,15 @@
+
+class:--
+======
+main() --- run
+user defined methods --- logic
+variables --- store the values
+constructors --- initialize value to variables
+
+
+variable types:--
+==============
+local variable
+global / instance variable
+static variable
+non static variable
